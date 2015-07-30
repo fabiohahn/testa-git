@@ -13,7 +13,7 @@ Armazena as alterações sob um controle de revisão.
 
 > Sistema de controle de versão centralizados (Centralized Version Control System ou CVCS)
 
-Exemplos: CVS, Subversion e Perforce, possuem um único servidor central que contém todos os arquivos versionados e vários clientes que podem resgatar (check out) os arquivos do servidor. Por muitos anos, esse foi o modelo padrão para controle de versão. CVCS oferece vantagens sobre VCSs locais. Todos podem estar trabalhando em conjunto. Mas existe a desvantagem de ter apenas um servidor central. Se o servidor ficar fora do ar por um hora, ninguém pode trabalhar em conjunto ou salvar novas versões dos arquivos durante esse período. Se o disco do servidor do banco de dados for corrompido e não existir um backup adequado, perde-se tudo -- todo o histórico de mudanças no projeto, exceto pelas únicas cópias que os desenvolvedores possuem em suas máquinas locais.
+Exemplos: CVS, Subversion e Perforce, possuem um único servidro central que contém todos os arquivos versionados e vários clientes que podem resgatar (check out) os arquivos do servidor. Por muitos anos, esse foi o modelo padrão para controle de versão. CVCS oferece vantagens sobre VCSs locais. Todos podem estar trabalhando em conjunto. Mas existe a desvantagem de ter apenas um servidor central. Se o servidor ficar fora do ar por um hora, ninguém pode trabalhar em conjunto ou salvar novas versões dos arquivos durante esse período. Se o disco do servidor do banco de dados for corrompido e não existir um backup adequado, perde-se tudo -- todo o histórico de mudanças no projeto, exceto pelas únicas cópias que os desenvolvedores possuem em suas máquinas locais.
 
 > Sistema de controle de versão distribuídos (Distributed Version Control System ou DVCS)
 
